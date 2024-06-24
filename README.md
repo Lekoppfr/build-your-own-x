@@ -21,7 +21,7 @@ It's a great way to learn.
 * [Game](#build-your-own-game)
 * [Git](#build-your-own-git)
 * [Network Stack](#build-your-own-network-stack)
-* [Neural Network](#build-your-own-neural-network)
+* [Neural Network](#build-your-own-neural-network (consider keras/tensorflow))
 * [Operating System](#build-your-own-operating-system)
 * [Physics Engine](#build-your-own-physics-engine)
 * [Programming Language](#build-your-own-programming-language)
